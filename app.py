@@ -4,7 +4,6 @@ import io
 import streamlit as st
 
 
-
 # Config :
 # To launch : streamlit run app.py
 

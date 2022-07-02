@@ -14,21 +14,6 @@ st.set_page_config(
     page_icon="🌠",
 )
 
-def _max_width_():
-    max_width_str = f"min-width: 2000px;"
-    st.markdown(
-        f"""
-    <style>
-    .reportview-container .main .block-container{{
-        {max_width_str}
-    }}
-    </style>    
-    """,
-        unsafe_allow_html=True,
-    )
-
-_max_width_()
-
 st.title("🌳 Step 1 ")
 st.header("")
 

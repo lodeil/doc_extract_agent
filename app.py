@@ -1,4 +1,3 @@
-from msilib.schema import Icon
 import os
 import json
 import io

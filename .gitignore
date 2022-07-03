@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# temp files
+english_g2.pth
+craft_mlt_25k.pth

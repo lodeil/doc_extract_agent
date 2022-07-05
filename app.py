@@ -39,7 +39,7 @@ if min_Ngrams > max_Ngrams:
 # Informations : 
 st.set_page_config(
     page_title="Extract from documents",
-    page_icon="🌠",
+    page_icon="⛏️",
 )
 st.header("")
 st.title("🌳 Extract important element from your 📃 documents 📃. 🌳")

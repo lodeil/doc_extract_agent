@@ -48,10 +48,12 @@ st.header("")
 with st.expander("ℹ️ - Information on this app", expanded=True):
 
     st.write(
-        """     
+        """        
 -   The *Extract from documents* is an easy-to-use interface for extracting the most relevent data from your documents
 -   It build to be easy to use with nominal performance 
 -   Document types :  csv , xlsx , xls , pdf , txt , xml , jpg , jpeg
+-   ⚠️ The cloud platform where the project is hosted allow a limited amount memory use, there for the app may return a memory overflow error
+-   ⚠️ The model used are small due to cloud resource constraint and therefor weaker than the full scale algorithms
     """
     )
 
